@@ -16,7 +16,7 @@ You will use a repeat() inside another repeat(), creating what's called a "neste
 
 
 ##### The Solution:
-[Run a program](https://pl.kotl.in/rafNxWTfK?theme=darcula) - kotlin playground
+[Run a program](https://pl.kotl.in/7mwlRTd9w?theme=darcula) - kotlin playground
  ```
 fun main() {
     val candles = 24
