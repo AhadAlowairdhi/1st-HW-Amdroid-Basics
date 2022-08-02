@@ -30,13 +30,13 @@ fun main() {
 }
 
 fun printCakeCandles(candles: Int){
-    print(" ") // to be site a candeles on the cake
+    print(" ") // to be site a candles on the cake
     repeat(candles){
         print(",") 
     }
     println() // to print blank line
     
-  	print(" ") // to be site a candeles on the cake
+  	print(" ") // to be site a candles on the cake
     repeat(candles){
         print("|")
     }
@@ -44,7 +44,7 @@ fun printCakeCandles(candles: Int){
 }
 
 fun printCakeTop(candles: Int){
-    // +2 so that the candels won't to fall off the side of the cake 
+    // +2 so that the candles won't to fall off the side of the cake 
    repeat(candles+2){
        print("=")
    }
