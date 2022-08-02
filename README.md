@@ -1,4 +1,4 @@
-# 1st-HW-Amdroid-Basics
+# 1st-HW-Android-Basics
 ## Print birthday cake - Tuwaiq Courses
 
 ### Ahad Alowairdhi
