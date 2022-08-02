@@ -1,6 +1,8 @@
 # 1st-HW-Amdroid-Basics
 ## Print birthday cake - Tuwaiq Courses
 
+### Ahad Alowairdhi
+
 Description |
 
 In this task, you are going to build a code to bake a cake to always be the right number of layers, size, and with the right number of candles.
@@ -11,9 +13,9 @@ You will create a total of three functions for drawing a layered cake with candl
 You will use a repeat() inside another repeat(), creating what's called a "nested loop".
 
 
-#### Ahad Alowairdhi
 
-##### Solutin:
+
+##### The Solution:
 [Run a program](https://pl.kotl.in/rafNxWTfK?theme=darcula) - kotlin playground
  ```
 fun main() {
